@@ -1,0 +1,10 @@
+{
+  "name": "Meu Repertório",
+  "short_name": "Repertório",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#10110f",
+  "theme_color": "#10110f",
+  "lang": "pt-BR",
+  "icons": []
+}
